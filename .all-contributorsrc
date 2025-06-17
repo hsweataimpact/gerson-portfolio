@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "Gerson",
+      "name": "Gerson Stuva",
+      "avatar_url": "https://avatars.githubusercontent.com/u/112647032?s=400&u=aa3c3a608065e2921e3237ac37cfffd1d4269d56&v=4",
+      "profile": "https://www.linkedin.com/in/gerson-stuva-b5702736b/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "developerFolio",
+  "projectOwner": "Gerson Stuva",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular"
+}
