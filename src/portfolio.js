@@ -424,7 +424,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+1 305 771 2135",
+  number: "+1 979 271 8953",
   email_address: "gerson.stuva@aimpacthk.com"
 };
 
